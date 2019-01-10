@@ -1,0 +1,19 @@
+body{
+    background: url("Gym.jpg");
+    no-repeat center center fixed;
+    background-size: cover;
+}
+div{
+    background-color: lightblue;
+    width: 60%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+    
+
+}
+button{
+    background: orange;
+    pading: 20px;
+    color: white;
+}
